@@ -13,9 +13,9 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
-    "warningText": "玉玉软件：网络收集接口，请勿贩卖，每次打开记得长按主页刷新",
+    "warningText": "玉玉软件库：网络收集接口，请勿贩卖，每次打开记得长按主页刷新",
     "sites": [
-     {"key":"csp_DouDou","name":"🅱「公众号玉玉软件」ㅤ官网:yyrj.xyz","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},  
+     {"key":"csp_DouDou","name":"🅱「公众号玉玉软件库」ㅤ官网:yyrj.xyz","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},  
      {
             "key": "天天",
             "name": "🔥天天",

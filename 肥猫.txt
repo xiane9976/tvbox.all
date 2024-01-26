@@ -4,36 +4,13 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🐼┃豆瓣┃微信公众号：肥猫宝贝",
+      "name": "🐼┃公众号┃肥猫宝贝",
       "type": 3,
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
       "ext":"https://d.kstore.space/download/6296/js/豆瓣推荐.js"
-    },
-    {
-      "key": "短剧one",
-      "name": "🥰┃短剧┃视频",
-      "type": 3,
-      "api": "csp_Panda",
-      "ext": "https://d.kstore.space/download/6296/json/短剧.json"
-    },
-    {
-   "key": "种子短剧",
-   "name": "💮┃短剧┃视频",
-   "type": 1,
-   "api": "http://zzdj.cc/api.php/provide/vod"
-    },
-    {
-      "key": "alist",
-      "name": "🍰┃小鸭┃网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://alist.xn--z7x900a.live/alist.json"
     },
     {
       "key": "nangua",
@@ -86,7 +63,7 @@
       "type": 3,
       "playerType": "2",
       "ext":"http://rzys.xyz/",
-      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "荐片",
@@ -95,7 +72,7 @@
       "type": 3,
       "playerType": "2",
       "ext":"http://api2.rinhome.com",
-      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "csp_Nmys",
@@ -105,7 +82,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "csp_Cs1369",
@@ -115,7 +92,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "csp_Auete",
@@ -125,7 +102,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "csp_Kuaikan",
@@ -135,7 +112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "厂长",
@@ -161,7 +138,28 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
+    },
+    {
+      "key": "哔嘀",
+      "name": "️️💦┃哔嘀┃影视",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType":"1",
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
+    },
+    {
+      "key": "皮皮虾",
+      "name": "🦐┃皮皮┃影视",
+      "type": 3,
+      "api": "csp_PipiXia",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "saohuo",
@@ -203,7 +201,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "新视觉",
@@ -214,7 +212,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":"https://www.80yy3.com/",
-      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "007影视",
@@ -255,6 +253,29 @@
       "ext": "https://d.kstore.space/download/6296/js/360.js"
     },
     {
+      "key": "短剧one",
+      "name": "🥰┃短剧┃视频",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": "https://d.kstore.space/download/6296/json/短剧.json"
+    },
+    {
+   "key": "种子短剧",
+   "name": "💮┃短剧┃视频",
+   "type": 1,
+   "api": "http://zzdj.cc/api.php/provide/vod"
+    },
+    {
+      "key": "alist",
+      "name": "🍰┃小鸭┃网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://alist.xn--z7x900a.live/alist.json"
+    },
+    {
       "key": "蓝猫动漫",
       "name": "🌊┃蓝猫┃动漫",
       "type": 3,
@@ -285,7 +306,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "Aid",
@@ -321,7 +342,7 @@
       "changeable": 0,
       "gridview": 3,
       "style":{"type":"list"},
-      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "drpy_js_310直播",
@@ -411,7 +432,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":"file://fatcat/token.txt",
-      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "drpy_哔哩",
@@ -499,7 +520,7 @@
             "searchable":0,
             "changeable":0,
             "ext":"https://fm.t4tv.hz.cz/json/market.json",
-          "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"},         
+          "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"},         
     {
       "key": "push_agent",
       "name": "关注公众号：肥猫宝贝",
