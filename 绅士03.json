@@ -1,7 +1,7 @@
 {
-    "spider": "https://github.com/fish2018/tvbox/raw/branch/master/jar/tvbox.jar",
-    "spider": "https://raw.githubusercontent.com/Guard-H/tvbox/main/cr/XBiubiuLA3.jar",
-    "spider": "https://raw.githubusercontent.com/Guard-H/tvbox/main/cr/XBiubiuLA4.jar",
+    "spider": "https://mirror.ghproxy.com/https://github.com/fish2018/tvbox/raw/branch/master/jar/wqcatyuanban.jar",
+    "spider": "https://mirror.ghproxy.com/https://github.com/fish2018/tvbox/raw/branch/master/jar/XBiubiuLA3.jar",
+    "spider": "https://mirror.ghproxy.com/https://github.com/fish2018/tvbox/raw/branch/master/jar/XBiubiuLA4.jar",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext="]}]}],
     "sites": [
         
