@@ -1007,7 +1007,7 @@
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"
 ],
 
-"spider": "https://github.com/fish2018/tvbox/raw/branch/master/jar/不良帅.jar",
+"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/不良帅.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "rules": [{"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
