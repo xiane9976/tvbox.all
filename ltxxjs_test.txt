@@ -2,7 +2,7 @@
 //https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json
 {
 "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-"spider":"https://github.com/fish2018/tvbox/raw/branch/master/jar/ltxxjs_test.jar",
+"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/ltxxjs_test.jar",
 "sites": [
     {"key":"Zjdr","name":"追剧达人","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
     {"key":"世界杯","name":"世界杯","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},

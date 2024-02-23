@@ -936,5 +936,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1080/",
-  "spider": "https://github.com/fish2018/tvbox/raw/branch/master/jar/成人路线.jar"
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/成人路线.jar"
 }

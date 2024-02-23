@@ -3,7 +3,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-//"spider":"https://github.com/fish2018/tvbox/raw/branch/master/jar/ltxxjs_m4.jar",
+//"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/ltxxjs_m4.jar",
 "spider":"https://mirror.ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/1008-1.jar",
 //"spider":"https://dxawi.github.io/1/jar/cs.jar;md5;5a7488362fc669c8f3e41dd094884948",
 //"spider":"https://mirror.ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/1019.jar",

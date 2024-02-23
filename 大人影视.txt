@@ -23,7 +23,7 @@
 {"name":"PM","type":1,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
 ],
   "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-  "spider":"https://github.com/fish2018/tvbox/raw/branch/master/jar/大人影视.jar",
+  "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/大人影视.jar",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="
 ]}]}],

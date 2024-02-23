@@ -1,5 +1,5 @@
 {
-"spider": "http://xn--4bra.live/jar/ggtv0802.jar",
+"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/Gmmtekamu-18.jar",
 "sites": [          
 
 {"key":"csp_77","name":"77","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},

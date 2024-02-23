@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.com/fish2018/tvbox/raw/branch/master/jar/Guard-H.jar",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/Guard-H.jar",
     "spider": "https://raw.githubusercontent.com/Guard-H/tvbox/main/cr/XBiubiuLA3.jar",
     "spider": "https://raw.githubusercontent.com/Guard-H/tvbox/main/cr/XBiubiuLA4.jar",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext="]}]}],

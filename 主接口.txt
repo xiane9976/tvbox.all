@@ -1,7 +1,7 @@
 
 
 {
- "spider":"https://github.com/fish2018/tvbox/raw/branch/master/jar/主接口.jar",
+ "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/主接口.jar",
      
      "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEzODAwMTM4MDAwMC9NSFFUVi9yYXcvYnJhbmNoL21hc3Rlci9UVi8wOTAzemgudHh0"]}]}],
      

@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider": "https://github.com/fish2018/tvbox/raw/branch/master/jar/星云.jar",
+"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/星云.jar",
 
 
 # 直播

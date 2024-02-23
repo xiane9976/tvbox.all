@@ -1127,7 +1127,7 @@
 
 
 //资源包
-//"spider":"https://github.com/fish2018/tvbox/raw/branch/master/jar/SexTVBox.jar",
+//"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/SexTVBox.jar",
 
 "lives":[{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9kaXktd3V3dS5tM3U4"]}]}],
 "spider":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar",

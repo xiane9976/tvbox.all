@@ -5,7 +5,7 @@
 
 
 //0730JAR
-"spider":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/0926.jar",
+"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/zzzgit.jar",
 
 
 

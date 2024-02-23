@@ -5,7 +5,7 @@
 
 
 //0730JAR
-"spider":"https://github.com/fish2018/tvbox/raw/branch/master/jar/🥰大人接口⑨.jar",
+"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🥰大人接口⑨.jar",
 
 
 

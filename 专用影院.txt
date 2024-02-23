@@ -2,7 +2,7 @@
 {
 
   
-"spider": "https://github.com/fish2018/tvbox/raw/branch/master/jar/专用影院.jar",
+"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/专用影院.jar",
 "spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/18.jar",
 "spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/XBiubiuLA2.jar",
 "spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/XBiubiuLA3.jar",

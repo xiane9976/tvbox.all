@@ -2429,5 +2429,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-    "spider": "https://github.com/fish2018/tvbox/raw/branch/master/jar/娱乐影院07.jar"
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/娱乐影院07.jar"
 }

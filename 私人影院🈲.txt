@@ -1373,5 +1373,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://tool.weetai.cn/api/images/05.png",
-  "spider": "https://github.com/fish2018/tvbox/raw/branch/master/jar/私人影院🈲.jar"
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/私人影院🈲.jar"
 }

@@ -140,7 +140,7 @@
 {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}}
 ],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vaG91eGlhbi9qc29uL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmVzL0xpdmVBZHVsdC50eHQ="]}]}],
-"spider":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/jar/myself.jar",
+"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/PinkBird.jar",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[

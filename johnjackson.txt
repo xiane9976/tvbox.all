@@ -1,5 +1,5 @@
 {
-    "spider": "http://waurl.cn/dxaw",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/johnjackson.jar",
     "lives": [
         {
             "group": "redirect",
