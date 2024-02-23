@@ -1,6 +1,6 @@
 
 {
-	"spider": "https://github.com/fish2018/tvbox/raw/branch/master/jar/壹梦主力.jar",
+	"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/壹梦主力.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
@@ -12,7 +12,8 @@
 
 	"sites":[
 {"key":"豆瓣","name":"🎯壹梦|公众号:千软汇","type":3,"api":"http://www.zte-cid.com:9999/yimeng/ym/lib/apiv43drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://www.zte-cid.com:9999/yimeng/ym/lib/douban.js"},
-{"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
+{"key": "应用商店","name": "🏬应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "http://www.zte-cid.com:9999/yimeng/app.json","jar": "http://www.zte-cid.com:9999/yimeng/spider.jar"},
+
 {
             "key": "阿里云盘登录",
             "name": "📕Token | 获取",
@@ -21,7 +22,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "jar":"http://www.liuyunw.com:88/sx.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7",
+            "jar":"http://www.zte-cid.com:9999/yimeng/ym/lib/sx.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7",
             "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
         },
         {
@@ -32,7 +33,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar":"http://www.liuyunw.com:88/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+            "jar":"http://www.zte-cid.com:9999/yimeng/ym/lib/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
 
@@ -159,7 +160,8 @@
 {"key": "DJ呦呦音乐网","name":"🎧DJ呦呦音乐","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.zte-cid.com:9999/yimeng/ym/lib/DJyyyyw.json"},
 {"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://www.zte-cid.com:9999/yimeng/ym/lib/MTV.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.zte-cid.com:9999/yimeng/ym/lib/kuqimv.json"},
-{"key": "js_a8音乐","name": "🎸A8音乐","type": 3,"api": "http://www.zte-cid.com:9999/yimeng/ym/lib/apiv43drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.zte-cid.com:9999/yimeng/ym/lib/a8yy.js"}
+{"key": "js_a8音乐","name": "🎸A8音乐","type": 3,"api": "http://www.zte-cid.com:9999/yimeng/ym/lib/apiv43drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.zte-cid.com:9999/yimeng/ym/lib/a8yy.js"},
+{"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0}
 ],
 "parses": [
 //{"name":"Json并发","type":2,"url":"Parallel"},

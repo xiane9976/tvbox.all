@@ -2155,7 +2155,7 @@
 
 //jar+壁纸
 
-"spider":"https://github.com/fish2018/tvbox/raw/branch/master/jar/分享者主.jar","wallpaper":"https://tool.weetai.cn/api", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
+"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/分享者主.jar","wallpaper":"https://tool.weetai.cn/api", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
 
 //电视直播
 

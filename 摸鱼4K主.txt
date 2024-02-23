@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.com/fish2018/tvbox/raw/branch/master/jar/摸鱼4K主.jar",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/摸鱼4K主.jar",
   "wallpaper": "http://摸鱼儿.xiyan.life/摸鱼壁纸/api.php",
   "warningText": "摸鱼儿：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [

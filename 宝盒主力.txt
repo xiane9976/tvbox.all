@@ -3,7 +3,7 @@
 
 
 
-"spider":"https://github.com/fish2018/tvbox/raw/branch/master/jar/宝盒主力.jar",
+"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/宝盒主力.jar",
 
 "lives":[
 
