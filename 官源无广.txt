@@ -1,5 +1,5 @@
 {
-  "spider": "http://43.248.128.141:82/jk/0125.jar",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/官源无广.jar",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
         {
